@@ -114,7 +114,7 @@ export const experiences = [
     role: "Front End Web Developer",
     company: "Tech Mahindra",
     date: "July 2022 - Oct 2023",
-    desc: "(Leveraged expertise in HTML, CSS, and JavaScript to create visually appealing and responsive designs. Contributed to dynamic projects, ensuring a seamless blend of aesthetics and functionality and led initiatives to enhance website responsiveness and optimize user interactions.)",
+    desc: "Leveraged expertise in HTML, CSS, and JavaScript to create visually appealing and responsive designs. Contributed to dynamic projects, ensuring a seamless blend of aesthetics and functionality and led initiatives to enhance website responsiveness and optimize user interactions.",
     skills: [
       "CSS",
       "HTML",
@@ -131,7 +131,7 @@ export const experiences = [
     role: "Junior Software Engineer",
     company: "Skill-Lync",
     date: "Aug-2021 - July-2022",
-    desc: "(My proficiency in JavaScript, HTML, and CSS, combined with a relentless commitment to excellence, allowed me to navigate complex coding challenges with precision. In addition to optimizing codebases, I actively participated in knowledge-sharing forums, fostering a culture of continual improvement within the team.)",
+    desc: "My proficiency in JavaScript, HTML, and CSS, combined with a relentless commitment to excellence, allowed me to navigate complex coding challenges with precision. In addition to optimizing codebases, I actively participated in knowledge-sharing forums, fostering a culture of continual improvement within the team.",
     skills: [
       "ReactJS",
       "Sales",
