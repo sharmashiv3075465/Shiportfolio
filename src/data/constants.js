@@ -115,8 +115,8 @@ export const experiences = [
     company: "Tech Mahindra",
     date: "July 2022 - Oct 2023",
     desc: "Led the transformation of outdated UIs into modern, intuitive interfaces, resulting in a 30% increase in user engagement 
-           within the first quarter. (Collaborated seamlessly with UX/UI designers and back-end developers, ensuring a cohesive workflow and accelerating 
-           project timelines by 15%. (Spearheaded) performance optimization initiatives, reducing page load times by 20% and enhancing overall user satisfaction.",
+           within the first quarter, Collaborated seamlessly to UX/UI designers and back-end developers, ensuring a cohesive workflow and accelerating 
+           project timelines by '15%', Spearheaded performance optimization initiatives, reducing page load times by '20%' and enhancing overall user satisfaction.",
     skills: [
       "CSS",
       "HTML",
@@ -134,8 +134,8 @@ export const experiences = [
     company: "Skill-Lync",
     date: "Aug-2021 - July-2022",
     desc: "Contributed to a 15% enhancement in project progress, emphasizing a commitment to adding measurable value to both team 
-           dynamics and project outcomes. (Developed) and deliver training sessions for sales teams, ensuring they have a solid understanding of the technical aspects of
-          our software solutions. (Improved team efficiency by 20%) through collaborative problem-solving, leading to the timely delivery of solutions.
+           dynamics and project outcomes, Developed and deliver training sessions for sales teams, ensuring they have a solid understanding of the technical aspects of
+          our software solutions, Improved team efficiency by '20%' through collaborative problem-solving, leading to the timely delivery of solutions.
 ",
     skills: [
       "ReactJS",
