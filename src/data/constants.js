@@ -131,9 +131,7 @@ export const experiences = [
     role: "Junior Software Engineer",
     company: "Skill-Lync",
     date: "Aug-2021 - July-2022",
-    desc: "Contributed to a 15% enhancement in project progress, emphasizing a commitment to adding measurable value to both team 
-           dynamics and project outcomes, Developed and deliver training sessions for sales teams, ensuring they have a solid understanding of the technical aspects of
-          our software solutions, Improved team efficiency by '20%' through collaborative problem-solving, leading to the timely delivery of solutions.
+    desc: "Actively participated in the complete software development lifecycle, from conceptualization to deployment and commitment to continuous improvement and adaptability made me an integral part of dynamic projects, contributing to the overall success of the team.
 ",
     skills: [
       "ReactJS",
