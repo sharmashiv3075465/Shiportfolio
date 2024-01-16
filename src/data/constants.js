@@ -114,9 +114,7 @@ export const experiences = [
     role: "Front End Web Developer",
     company: "Tech Mahindra",
     date: "July 2022 - Oct 2023",
-    desc: "Led the transformation of outdated UIs into modern, intuitive interfaces, resulting in a 30% increase in user engagement 
-           within the first quarter, Collaborated seamlessly to UX/UI designers and back-end developers, ensuring a cohesive workflow and accelerating 
-           project timelines by '15%', Spearheaded performance optimization initiatives, reducing page load times by '20%' and enhancing overall user satisfaction.",
+    desc: "Leveraged expertise in HTML, CSS, and JavaScript to create visually appealing and responsive designs. Contributed to dynamic projects, ensuring a seamless blend of aesthetics and functionality and led initiatives to enhance website responsiveness and optimize user interactions.",
     skills: [
       "CSS",
       "HTML",
