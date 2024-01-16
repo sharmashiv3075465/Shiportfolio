@@ -111,10 +111,12 @@ export const skills = [
 export const experiences = [
   { id: 0,
     img: "https://cdn-images.himalayas.app/5uzzzkokpkbovsy5tqbjbikg9h8i",
-    role: "Associate",
+    role: "Front End Web Developer",
     company: "Tech Mahindra",
     date: "July 2022 - Oct 2023",
-    desc: "Determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages.",
+    desc: "Led the transformation of outdated UIs into modern, intuitive interfaces, resulting in a 30% increase in user engagement 
+           within the first quarter. (Collaborated seamlessly with UX/UI designers and back-end developers, ensuring a cohesive workflow and accelerating 
+           project timelines by 15%. (Spearheaded) performance optimization initiatives, reducing page load times by 20% and enhancing overall user satisfaction.",
     skills: [
       "CSS",
       "HTML",
@@ -128,10 +130,13 @@ export const experiences = [
   {
     id: 1,
     img: "https://pbs.twimg.com/profile_images/1237312667699654657/JTTG4jIA_400x400.jpg",
-    role: "Technical Sales Engineer",
+    role: "Junior Software Engineer",
     company: "Skill-Lync",
-    date: "Dec-2021 - July-2022",
-    desc: "Provide pre- and post-sales technical advice and support about products. Employers typically prefer graduates with qualifications in computer science, software engineering, physics or maths.",
+    date: "Aug-2021 - July-2022",
+    desc: "Contributed to a 15% enhancement in project progress, emphasizing a commitment to adding measurable value to both team 
+           dynamics and project outcomes. (Developed) and deliver training sessions for sales teams, ensuring they have a solid understanding of the technical aspects of
+          our software solutions. (Improved team efficiency by 20%) through collaborative problem-solving, leading to the timely delivery of solutions.
+",
     skills: [
       "ReactJS",
       "Sales",
